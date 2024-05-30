@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Patrick-NII
-- 👀 I’m interested in Big data, Machine Learning and IA
-- 🌱 I’m currently learning Biga data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Patrick@niip.me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+About Me
+I’m passionate about Big Data, Machine Learning, and Artificial Intelligence. Currently, I'm deepening my knowledge in advanced Big Data techniques. I’m eager to collaborate on innovative data-driven projects, Machine Learning model development, and AI engineering solutions. You can reach me at Patrick@niip.me
 
-<!---
-Patrick-NII/Patrick-NII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fun fact: I love leveraging data science to analyze financial market performance and improve productivity through IoT and automation. This involves examining company performance in the stock market and enhancing machine productivity for better performance and efficiency.
