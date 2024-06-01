@@ -16,19 +16,3 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 
 
-
-👋 À propos de moi
-
-Salut ! Je suis Patrick, et je suis passionné par l'exploration du vaste monde du Big Data, de l'Apprentissage Automatique et de l'Intelligence Artificielle. Actuellement, je suis en train de me plonger dans les techniques avancées du Big Data, cherchant constamment de nouveaux défis et opportunités pour enrichir mon expertise.
-
-🚀 Passions et Objectifs
-
-Ma passion réside dans la collaboration sur des projets innovants et orientés vers les données qui repoussent les limites de l'innovation. Que ce soit le développement de modèles robustes d'Apprentissage Automatique ou l'ingénierie de solutions en IA, j'aime transformer les idées en réalité grâce à la puissance des données.
-
-🎉 Contactez-moi !
-
-Envie de discuter de données, d'apprentissage automatique ou d'IA ? N'hésitez pas à me contacter à Patrick@niip.me. Je suis toujours partant pour une conversation stimulante ou une opportunité de collaboration passionnante !
-
-💡 Le Saviez-vous ?
-
-Saviez-vous que j'aime utiliser la science des données pour décoder les mystères des marchés financiers ? De l'analyse des performances boursières à l'optimisation de la productivité avec l'IoT et l'automatisation, j'aime trouver des moyens créatifs d'améliorer les performances et l'efficacité.
