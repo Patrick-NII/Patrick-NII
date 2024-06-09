@@ -42,6 +42,5 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | Seaborn pour la visualisation statistique des données. | PlatformIO pour le développement de firmware de microcontrôleurs. |
 | Matplotlib pour créer des graphiques statiques et animés. | Arduino IDE pour développer et uploader des firmwares. |
 | Plotly pour des visualisations interactives. | VS Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
-| Power BI pour la visualisation des données de business intelligence. | |
-| Excel pour analyser et visualiser les données. | |
+| Power BI pour la visualisation des données de business intelligence. |  Excel pour analyser et visualiser les données.  |
 
