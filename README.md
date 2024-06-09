@@ -18,71 +18,61 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 
 
-
 ## Technologies et Outils
 
-### Développement Backend
+| Technologie |
+| --- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) |
+| ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
-| Technologie | Usage |
-| --- | --- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python pour le développement d'application, l'analyse de données et l'apprentissage automatique. |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Git pour le contrôle de version afin de suivre les modifications de mon code. |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Hébergement de mon code source et collaboration avec d'autres développeurs. |
+## Usages des Technologies et Outils
 
-### Développement Frontend
-
-| Technologie | Usage |
-| --- | --- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | HTML pour structurer les pages web. |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | CSS pour styliser et présenter les documents HTML. |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | JavaScript pour rendre les pages web interactives. |
-
-### Analyse de Données et Visualisation
-
-| Technologie | Usage |
-| --- | --- |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Pandas pour la manipulation et l'analyse de données. |
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | NumPy pour le calcul scientifique. |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | Seaborn pour la visualisation statistique des données. |
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) | Matplotlib pour créer des graphiques statiques et animés. |
-| ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | Plotly pour des visualisations interactives. |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | Power BI pour la visualisation des données de business intelligence. |
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | Excel pour analyser et visualiser les données. |
-
-### Machine Learning et Data Science
-
-| Technologie | Usage |
-| --- | --- |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | Scikit-Learn pour le machine learning en Python. |
-| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | Streamlit pour créer des applications de data science interactives. |
-
-### Internet des Objets (IoT) et Programmation Embarquée
-
-| Technologie | Usage |
-| --- | --- |
-| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) | Arduino pour les projets de prototypage électronique. |
-| ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | G-code pour contrôler les machines-outils automatisées. |
-
-### Bases de Données
-
-| Technologie | Usage |
-| --- | --- |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | MySQL pour la gestion des bases de données relationnelles. |
-| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | SQLite pour des bases de données relationnelles intégrées. |
-
-### Conception Assistée par Ordinateur (CAO)
-
-| Technologie | Usage |
-| --- | --- |
-| ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
-
-### Programmation IoT et Machine Automatisé
-
-| Technologie | Usage |
-| --- | --- |
-| ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | G-code pour contrôler les mouvements et les opérations des machines automatisées. |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Utilisé pour développer des firmwares comme Marlin. |
-| ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | PlatformIO pour le développement de firmware de microcontrôleurs. |
-| ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) | Arduino IDE pour développer et uploader des firmwares. |
-| ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Visual Studio Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
+| Usage |
+| --- |
+| Python pour le développement d'application, l'analyse de données et l'apprentissage automatique. |
+| Git pour le contrôle de version afin de suivre les modifications de mon code. |
+| Hébergement de mon code source et collaboration avec d'autres développeurs. |
+| HTML pour structurer les pages web. |
+| CSS pour styliser et présenter les documents HTML. |
+| JavaScript pour rendre les pages web interactives. |
+| Pandas pour la manipulation et l'analyse de données. |
+| NumPy pour le calcul scientifique. |
+| Seaborn pour la visualisation statistique des données. |
+| Matplotlib pour créer des graphiques statiques et animés. |
+| Plotly pour des visualisations interactives. |
+| Power BI pour la visualisation des données de business intelligence. |
+| Excel pour analyser et visualiser les données. |
+| Scikit-Learn pour le machine learning en Python. |
+| Streamlit pour créer des applications de data science interactives. |
+| Arduino pour les projets de prototypage électronique. |
+| G-code pour contrôler les machines-outils automatisées. |
+| MySQL pour la gestion des bases de données relationnelles. |
+| SQLite pour des bases de données relationnelles intégrées. |
+| SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
+| Utilisé pour développer des firmwares comme Marlin. |
+| PlatformIO pour le développement de firmware de microcontrôleurs. |
+| Arduino IDE pour développer et uploader des firmwares. |
+| Visual Studio Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
 
