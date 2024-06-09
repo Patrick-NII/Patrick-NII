@@ -19,7 +19,6 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 
 
-
 ## Technologies et Outils
 
 ### Développement Backend
@@ -76,3 +75,14 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | Technologie | Usage |
 | --- | --- |
 | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
+
+### Programmation pour Imprimantes 3D
+
+| Technologie | Usage |
+| --- | --- |
+| ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | G-code pour contrôler les mouvements et les opérations des machines automatisées. |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Utilisé pour développer des firmwares comme Marlin. |
+| ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | PlatformIO pour le développement de firmware de microcontrôleurs. |
+| ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) | Arduino IDE pour développer et uploader des firmwares. |
+| ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) | Visual Studio Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
+
