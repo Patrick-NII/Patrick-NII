@@ -38,3 +38,66 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+
+
+
+## Technologies et Outils
+Développement Backend
+ : Langage de programmation polyvalent utilisé pour le développement web, l'analyse de données, l'apprentissage automatique, etc.
+ : Système de contrôle de version distribué pour suivre les modifications du code.
+ : Plateforme d'hébergement de code source et de collaboration utilisant Git.
+Développement Frontend
+ : Langage de balisage standard pour créer des pages web.
+ : Langage de feuille de style utilisé pour décrire la présentation des documents HTML.
+ : Langage de programmation utilisé pour créer des pages web interactives.
+Analyse de Données et Visualisation
+ : Bibliothèque de manipulation et d'analyse de données en Python.
+ : Bibliothèque pour le calcul scientifique en Python.
+ : Bibliothèque de visualisation statistique basée sur Matplotlib.
+ : Bibliothèque de traçage pour créer des graphiques statiques, animés et interactifs en Python.
+ : Bibliothèque pour créer des visualisations interactives.
+ : Outil de business intelligence pour visualiser les données.
+ : Logiciel de tableur pour analyser et visualiser des données.
+Machine Learning et Data Science
+ : Bibliothèque pour le machine learning en Python.
+ : Framework pour créer des applications de data science interactives.
+Internet des Objets (IoT) et Programmation Embarquée
+ : Plateforme de prototypage électronique open-source.
+ : Interfaces de gestion d'entrée/sortie.
+ : Langage de programmation utilisé pour contrôler les machines-outils automatisées.
+Bases de Données
+ : Système de gestion de bases de données relationnelles.
+ : Système de gestion de base de données relationnelle intégré.
+Conception Assistée par Ordinateur (CAO)
+ : Logiciel de conception assistée par ordinateur pour la modélisation 3D.
+Langages et Outils
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+perl
+Copier le code
+
+Copiez et collez ce résumé et la liste des badges dans votre `README.md` pour donner un aperçu professionnel des technologies et outils que vous maîtrisez.
+
+
+
+
+
