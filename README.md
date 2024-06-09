@@ -15,6 +15,11 @@ Want to chat about **data**, **machine learning**, or **AI**? Feel free to drop 
 Did you know that I enjoy using data science to decode the mysteries of financial markets? From analyzing stock performance to optimizing productivity with IoT and automation, I'm all about finding creative ways to drive better performance and efficiency.
 
 
+
+
+
+
+
 ## Technologies et Outils
 
 ### Développement Backend
@@ -23,7 +28,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | --- | --- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Python pour le développement d'application, l'analyse de données et l'apprentissage automatique. |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Git pour le contrôle de version afin de suivre les modifications de mon code. |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Hébergement mon code source et collaborations avec d'autres développeurs. |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | Hébergement de mon code source et collaboration avec d'autres développeurs. |
 
 ### Développement Frontend
 
@@ -71,10 +76,3 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | Technologie | Usage |
 | --- | --- |
 | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
-
-
-
-
-
-
-
