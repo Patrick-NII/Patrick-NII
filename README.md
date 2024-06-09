@@ -29,29 +29,19 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 ## Usages des Technologies et Outils
 
-
-|* Python pour le développement d'application, l'analyse de données et le Machine Learning.
-* Git pour le contrôle de version afin de suivre les modifications de mon code. 
-* Hébergement de mon code source et collaboration avec d'autres développeurs. 
-* HTML pour structurer les pages web. 
-* CSS pour styliser et présenter les documents HTML. 
-* JavaScript pour rendre les pages web interactives. 
-* Pandas pour la manipulation et l'analyse de données. 
-* NumPy pour le calcul scientifique. 
-* Seaborn pour la visualisation statistique des données. 
-* Matplotlib pour créer des graphiques statiques et animés. 
-* Plotly pour des visualisations interactives. 
-* Power BI pour la visualisation des données de business intelligence. 
-* Excel pour analyser et visualiser les données. |
-|* Scikit-Learn pour le machine learning en Python. 
-* Streamlit pour créer des applications de data science interactives. 
-* Arduino pour les projets de prototypage électronique. 
-* G-code pour contrôler les machines-outils automatisées. 
-* MySQL pour la gestion des bases de données relationnelles. 
-* SQLite pour des bases de données relationnelles intégrées. 
-* SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. 
-* Utilisé pour développer des firmwares comme Marlin. 
-* PlatformIO pour le développement de firmware de microcontrôleurs. 
-* Arduino IDE pour développer et uploader des firmwares. 
-* VS Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
+|                          |                        |
+|--------------------------|------------------------|
+| Python pour le développement d'application, l'analyse de données et le Machine Learning. | Scikit-Learn pour le machine learning en Python. |
+| Git pour le contrôle de version afin de suivre les modifications de mon code. | Streamlit pour créer des applications de data science interactives. |
+| Hébergement de mon code source et collaboration avec d'autres développeurs. | Arduino pour les projets de prototypage électronique. |
+| HTML pour structurer les pages web. | G-code pour contrôler les machines-outils automatisées. |
+| CSS pour styliser et présenter les documents HTML. | MySQL pour la gestion des bases de données relationnelles. |
+| JavaScript pour rendre les pages web interactives. | SQLite pour des bases de données relationnelles intégrées. |
+| Pandas pour la manipulation et l'analyse de données. | SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
+| NumPy pour le calcul scientifique. | Utilisé pour développer des firmwares comme Marlin. |
+| Seaborn pour la visualisation statistique des données. | PlatformIO pour le développement de firmware de microcontrôleurs. |
+| Matplotlib pour créer des graphiques statiques et animés. | Arduino IDE pour développer et uploader des firmwares. |
+| Plotly pour des visualisations interactives. | VS Code avec l'extension PlatformIO pour un développement de firmware plus avancé. |
+| Power BI pour la visualisation des données de business intelligence. | |
+| Excel pour analyser et visualiser les données. | |
 
