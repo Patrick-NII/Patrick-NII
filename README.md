@@ -1,6 +1,6 @@
 ## 👋 **About Me**
 
-Hey there! I'm **Patrick**, and I'm all about diving into the exciting world of **Big Data**, **Machine Learning**, and **Artificial Intelligence**. Currently, I'm on a journey to master advanced Big Data techniques, constantly seeking new challenges and opportunities to expand my expertise.
+Hey there! I'm **Patrick**, and I'm all about diving into the exciting world of **Data**, **Machine Learning**, and **Artificial Intelligence**. Currently, I'm on a journey to master advanced Big Data techniques, constantly seeking new challenges and opportunities to expand my expertise.
 
 ## 🚀 **Passionate Pursuits**
 
