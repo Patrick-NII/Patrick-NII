@@ -76,7 +76,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | --- | --- |
 | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | SolidWorks pour la modélisation 3D et la conception assistée par ordinateur. |
 
-### Programmation pour Imprimantes 3D
+### Programmation IoT et Machine Automatisé
 
 | Technologie | Usage |
 | --- | --- |
