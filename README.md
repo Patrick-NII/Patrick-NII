@@ -1,14 +1,14 @@
 ## 👋 **About Me**
 
-Hey there! I'm **Patrick**, and I'm into the exciting world of **Data**, **Machine Learning**, **IoT**, and **Artificial Intelligence**. Currently, I'm on a journey to master advanced of these technologies, constantly seeking new challenges and opportunities to expand my expertise.
+Hey there! I'm **Patrick**, and I'm passionate about **Data**, **Machine Learning**, **IoT**, and **Artificial Intelligence**. I'm on a journey to master these technologies, constantly seeking new challenges and opportunities to expand my expertise.
 
 ## 🚀 **Passionate Pursuits**
 
-My passion lies in carrying out ambitious data-driven projects that bring innovation and optimization. Whether developing robust models in machine learning, the Internet of Things, or engineering AI solutions, I strive to turn ideas into reality through power of data.
+I thrive on carrying out ambitious data-driven projects that bring innovation and optimization. Whether developing robust models in machine learning, working with IoT, or engineering AI solutions, I strive to turn ideas into reality through the power of data.
 
 ## 🎉 **Let's Connect!**
 
-Want to chat about **data**, **machine learning**, **IoT** or **AI**? Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
+Want to chat about **data**, **machine learning**, **IoT**, or **AI**? Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
 
 ## 💡 **Fun Fact**
 
@@ -26,7 +26,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 | | |
 | --- | --- |
-| Python for application development, data analysis, and Machine Learning. | Scikit-Learn for machine learning in Python. |
+| Python for application development, data analysis, and machine learning. | Scikit-Learn for machine learning in Python. |
 | Git for version control to track changes in my code. | Streamlit for creating interactive data science applications. |
 | Hosting my source code and collaborating with other developers. | Arduino for electronic prototyping projects. |
 | HTML for structuring web pages. | G-code for controlling automated machine tools. |
@@ -37,7 +37,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | Seaborn for statistical data visualization. | PlatformIO for microcontroller firmware development. |
 | Matplotlib for creating static and animated plots. | Raspberry Pi for various electronics and computing projects. |
 | Plotly for interactive visualizations. | VS Code with PlatformIO extension for advanced firmware development. |
-| Power BI for business intelligence data visualization. | Excel for data analysis and visualization.  |
+| Power BI for business intelligence data visualization. | Excel for data analysis and visualization. |
 
 ## 📈 **GitHub Stats**
 
@@ -54,13 +54,6 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ![Patrick's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight)
 ![Patrick's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight)
 
-## 🚀 **Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Patrick-NII/repo/pull/123) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
-2. 💪 Opened PR [#124](https://github.com/Patrick-NII/repo/pull/124) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
-3. 🗣 Commented on [#125](https://github.com/Patrick-NII/repo/issues/125) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
-<!--END_SECTION:activity-->
 
 ## 📫 **Contact Me**
 
