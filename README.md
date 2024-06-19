@@ -26,8 +26,8 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📈 **GitHub Stats**
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 49%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%;"/>
 </div>
 
 ## 🏆 **GitHub Trophies**
