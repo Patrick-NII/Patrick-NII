@@ -28,8 +28,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%;"/>
 
 <div class="container">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight" alt="GitHub Commits" style="width: 49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 49%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 100%; height: auto;"/>
 </div>
 
 ## 🏆 **github trophies**
