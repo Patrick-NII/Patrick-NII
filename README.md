@@ -25,8 +25,10 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 ## 📈 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 100%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 100%;"/>
+<div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 49%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%;"/>
+</div>
 
 ## 🏆 **GitHub Trophies**
 
@@ -35,6 +37,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📊 **GitHub Profile Summary Cards**
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%;"/>
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight" alt="GitHub Commits" style="width: 49%;"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight" alt="GitHub Stats" style="width: 49%;"/>
