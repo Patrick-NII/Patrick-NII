@@ -42,7 +42,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📈 **GitHub Stats**
 
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=10&hide=CMAK)
 
 ## 🏆 **GitHub Trophies**
 
