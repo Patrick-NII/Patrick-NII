@@ -28,30 +28,30 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%;"/>
 
 <div class="container">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 49%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=dark&hide_title=true" alt="Patrick's GitHub Stats" style="width: 49%; height: auto;"/>
 </div>
 
 ## 🏆 **github trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
 
 
-## 📈 **GitHub Stats**
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=dark&hide_title=true" alt="Patrick's GitHub Stats" style="width: 100%; height: auto;"/>
-</div>
-
-
-
 ## 📂 **projects**
 
 Here are some of my notable projects:
 
-- **Project Name**: [GitHub Repository](https://github.com/Patrick-NII/project-repo)
-  - Description: Brief description of the project.
+- **Sky Analytics (Projet en cours)**: [GitHub Repository](https://github.com/Patrick-NII/Sky_Analytics)
+  - Description: L'objectif principal est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et estimer les coûts associés. 
+    
+- **Analyse Credits**: [GitHub Repository](https://github.com/Patrick-NII/Analyse_Credits)
+  - Description: L'objectif principal de ce projet est de développer un modèle de machine learning capable de prédire la capacité d'un client à obtenir un prêt immobilier. Le projet inclut également des           
+    visualisations pour mieux comprendre les données et les tendances associées aux prêts immobiliers.
+    
+- **Tools firmware**: [GitHub Repository](https://github.com/Patrick-NII/Tools_firmware)
+  - Description: Ce projet consiste en la création et l'optimisation d'un firmware Marlin personnalisé pour une imprimante 3D connectée, intégrant diverses fonctionnalités avancées visant à améliorer la sécurité,     l'efficacité et la qualité des impressions.
 
-- **Another Project**: [GitHub Repository](https://github.com/Patrick-NII/another-project-repo)
-  - Description: Brief description of the project.
+- **Systeme de recommendation de films**: [GitHub Repository](https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films)
+  - Description: Ce projet vise à créer un système de recommandation de films, en utilisant des techniques d'apprentissage automatique sur des données extraites de la base IMDB.
 
 
 Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
