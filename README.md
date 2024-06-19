@@ -42,11 +42,17 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📈 **GitHub Stats**
 
 ![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMAK)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake)
 
 ## 🏆 **GitHub Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 **GitHub Profile Summary Cards**
+
+![Patrick's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight)
+![Patrick's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight)
+![Patrick's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight)
 
 ## 🚀 **Recent Activity**
 
