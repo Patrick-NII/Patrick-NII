@@ -41,19 +41,19 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 ## 📈 **GitHub Stats**
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrick&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick&layout=compact&theme=radical)
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical)
 
 ## 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=patrick&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/patrick/repo/pull/123) in [patrick/repo](https://github.com/patrick/repo)
-2. 💪 Opened PR [#124](https://github.com/patrick/repo/pull/124) in [patrick/repo](https://github.com/patrick/repo)
-3. 🗣 Commented on [#125](https://github.com/patrick/repo/issues/125) in [patrick/repo](https://github.com/patrick/repo)
+1. 🎉 Merged PR [#123](https://github.com/Patrick-NII/repo/pull/123) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
+2. 💪 Opened PR [#124](https://github.com/Patrick-NII/repo/pull/124) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
+3. 🗣 Commented on [#125](https://github.com/Patrick-NII/repo/issues/125) in [Patrick-NII/repo](https://github.com/Patrick-NII/repo)
 <!--END_SECTION:activity-->
 
 ## 📫 **Contact Me**
