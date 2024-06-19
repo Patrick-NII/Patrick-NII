@@ -31,9 +31,9 @@ Did you know that I enjoy using data science to decode the mysteries of financia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 100%; height: 50%;"/>
 </div>
 
-## 🏆 **github trophies**
+<!-- ## 🏆 **github trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
-
+-->
 
 ## 📂 **projects**
 
