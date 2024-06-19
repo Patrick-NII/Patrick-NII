@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      background-color: #2c003e; /* Mauve nuit pour le fond */
-      color: #1e90ff; /* Bleu pour le texte */
-      text-transform: uppercase; /* Tout en majuscules */
-    }
-    a {
-      color: #1e90ff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      width: 100%;
-      display: flex;
-      justify-content: space-between;
-    }
-    .container img {
-      width: 49%;
-      height: auto;
-    }
-  </style>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
 
 ## 👋 **about me**
 
@@ -60,7 +28,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 49%; height: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%; height: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%; height: 49%;"/>
 </div>
 
 
@@ -73,8 +41,8 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%;"/>
 
 <div class="container">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight" alt="GitHub Commits"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight" alt="GitHub Commits" style="width: 49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight" alt="GitHub Stats" style="width: 49%"/>
 </div>
 
 ## 📂 **projects**
@@ -89,6 +57,3 @@ Here are some of my notable projects:
 
 
 Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
-
-</body>
-</html>
