@@ -22,37 +22,32 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 | ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
-## 📊 **Usage of Technologies and Tools**
-
-| | |
-| --- | --- |
-| Python for application development, data analysis, and machine learning. | Scikit-Learn for machine learning in Python. |
-| Git for version control to track changes in my code. | Streamlit for creating interactive data science applications. |
-| Hosting my source code and collaborating with other developers. | Arduino for electronic prototyping projects. |
-| HTML for structuring web pages. | G-code for controlling automated machine tools. |
-| CSS for styling and presenting HTML documents. | MySQL for managing relational databases. |
-| JavaScript for making web pages interactive. | SQLite for embedded relational databases. |
-| Pandas for data manipulation and analysis. | SolidWorks for 3D modeling and CAD. |
-| NumPy for scientific computing. | Used to develop firmwares like Marlin. |
-| Seaborn for statistical data visualization. | PlatformIO for microcontroller firmware development. |
-| Matplotlib for creating static and animated plots. | Raspberry Pi for various electronics and computing projects. |
-| Plotly for interactive visualizations. | VS Code with PlatformIO extension for advanced firmware development. |
-| Power BI for business intelligence data visualization. | Excel for data analysis and visualization. |
 
 ## 📈 **GitHub Stats**
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake)
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 100%;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 100%;"/>
 
 ## 🏆 **GitHub Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
 
 ## 📊 **GitHub Profile Summary Cards**
 
-![Patrick's GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight)
-![Patrick's GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight)
-![Patrick's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patrick-NII&theme=tokyonight" alt="GitHub Profile Summary" style="width: 100%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Patrick-NII&theme=tokyonight" alt="GitHub Commits" style="width: 100%;"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Patrick-NII&theme=tokyonight" alt="GitHub Stats" style="width: 100%;"/>
+
+## 📂 **Projects**
+
+Here are some of my notable projects:
+
+- **Project Name**: [GitHub Repository](https://github.com/Patrick-NII/project-repo)
+  - Description: Brief description of the project.
+
+- **Another Project**: [GitHub Repository](https://github.com/Patrick-NII/another-project-repo)
+  - Description: Brief description of the project.
+
 
 
 ## 📫 **Contact Me**
