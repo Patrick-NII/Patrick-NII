@@ -53,5 +53,5 @@ Here are some of my notable projects:
 - **Systeme de recommendation de films**: [GitHub Repository](https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films)
   - Description: Ce projet vise à créer un système de recommandation de films, en utilisant des techniques d'apprentissage automatique sur des données extraites de la base IMDB.
 
-__
+__--
 Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
