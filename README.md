@@ -36,15 +36,12 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
 
 
+## 📈 **GitHub Stats**
 
-## 📈 **github stats**
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=radical" alt="Patrick's GitHub Stats" style="width: 49%; height: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=radical&langs_count=8&hide=CMake" alt="Top Langs" style="width: 49%; height: 49%;"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=dark" alt="GitHub Streak Stats" style="width: 49%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-NII&layout=compact&theme=dark&langs_count=8&hide_title=true" alt="Top Langs" style="width: 49%; height: auto;"/>
 </div>
-
-
 
 ## 📂 **projects**
 
