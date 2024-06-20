@@ -36,7 +36,6 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 -->
 ## 📂 **Projects**
 
-Here are some of my notable projects:
 
 <div class="container">
   <a href="https://github.com/Patrick-NII/Sky_Analytics">
