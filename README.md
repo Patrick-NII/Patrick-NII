@@ -40,19 +40,19 @@ Here are some of my notable projects:
 
 - **Sky Analytics (Projet en cours)**: [GitHub Repository](https://github.com/Patrick-NII/Sky_Analytics)
   - Description: L'objectif principal est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et estimer les coûts associés.
-  - ![Sky Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple)
+  - <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple" style="width: 100%;"/>
 
 - **Analyse Credits**: [GitHub Repository](https://github.com/Patrick-NII/Analyse_Credits)
   - Description: L'objectif principal de ce projet est de développer un modèle de machine learning capable de prédire la capacité d'un client à obtenir un prêt immobilier. Le projet inclut également des visualisations pour mieux comprendre les données et les tendances associées aux prêts immobiliers.
-  - ![Analyse Credits](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple)
+  - <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple" style="width: 100%;"/>
 
 - **Tools firmware**: [GitHub Repository](https://github.com/Patrick-NII/Tools_firmware)
   - Description: Ce projet consiste en la création et l'optimisation d'un firmware Marlin personnalisé pour une imprimante 3D connectée, intégrant diverses fonctionnalités avancées visant à améliorer la sécurité, l'efficacité et la qualité des impressions.
-  - ![Tools firmware](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple)
+  - <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple" style="width: 100%;"/>
 
 - **Systeme de recommendation de films**: [GitHub Repository](https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films)
   - Description: Ce projet vise à créer un système de recommandation de films, en utilisant des techniques d'apprentissage automatique sur des données extraites de la base IMDB.
-  - ![Systeme de recommendation de films](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple)
+  - <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple" style="width: 100%;"/>
 
 
 ---
