@@ -26,8 +26,8 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📊 **GitHub Profile Summary**
 
 <div class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=midnight-purple" alt="" style="width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=midnight-purple" alt="" style="width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=catppuccin_latte" alt="" style="width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 100%;"/>
 </div>
 
 
@@ -40,10 +40,10 @@ Here are some of my notable projects:
 
 <div class="container">
   <a href="https://github.com/Patrick-NII/Sky_Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=catppuccin_latte&cache_seconds=1800" style="width: 49%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Analyse_Credits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=catppuccin_latte&cache_seconds=1800" style="width: 49%;"/>
   </a>
 </div>
 
@@ -51,10 +51,10 @@ Here are some of my notable projects:
   ---
 <div class="container_2"> 
   <a href="https://github.com/Patrick-NII/Tools_firmware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=catppuccin_latte&cache_seconds=1800" style="width: 49%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=catppuccin_latte&cache_seconds=1800" style="width: 49%;"/>
   </a>
 </div>
 
