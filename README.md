@@ -15,7 +15,7 @@ Want to chat about **data**, **machine learning**, **IoT**, or **AI**, Feel free
 
 Did you know that I enjoy using data science to decode the mysteries of financial markets? From analyzing stock performance to optimizing productivity with IoT and automation, I'm all about finding creative ways to drive better performance and efficiency.
 
-## 🛠 **Technologies and tools**
+
 
 |  | T | E | C | H | N | O |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
