@@ -40,10 +40,10 @@ Here are some of my notable projects:
 
 <div class="container">
   <a href="https://github.com/Patrick-NII/Sky_Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Analyse_Credits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
   </a>
 </div>
 
