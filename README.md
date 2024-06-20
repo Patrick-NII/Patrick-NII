@@ -1,21 +1,21 @@
 
-## 👋 **about me**
+## 👋 **About me**
 
 Hey there! I'm **Patrick**, and I'm passionate about **Data**, **Machine Learning**, **IoT**, and **Artificial Intelligence**. I'm on a journey to master these technologies, constantly seeking new challenges and opportunities to expand my expertise.
 
-## 🚀 **passionate pursuits**
+## 🚀 **Passionate pursuits**
 
 I thrive on carrying out ambitious data-driven projects that bring innovation and optimization. Whether developing robust models in machine learning, working with IoT, or engineering AI solutions, I strive to turn ideas into reality through the power of data.
 
-## 🎉 **let's connect!**
+## 🎉 **Let's connect!**
 
 Want to chat about **data**, **machine learning**, **IoT**, or **AI**? Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
 
-## 💡 **fun fact**
+## 💡 **Fun fact**
 
 Did you know that I enjoy using data science to decode the mysteries of financial markets? From analyzing stock performance to optimizing productivity with IoT and automation, I'm all about finding creative ways to drive better performance and efficiency.
 
-## 🛠 **technologies and tools**
+## 🛠 **Technologies and tools**
 
 |  | T | E | C | H | N | O |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
