@@ -40,16 +40,16 @@ Here are some of my notable projects:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <a href="https://github.com/Patrick-NII/Sky_Analytics" style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Analyse_Credits" style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Tools_firmware" style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films" style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
 </div>
 
