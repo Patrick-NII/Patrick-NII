@@ -38,50 +38,17 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 Here are some of my notable projects:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <div style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <a href="https://github.com/Patrick-NII/Sky_Analytics">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <a href="https://github.com/Patrick-NII/Analyse_Credits">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <a href="https://github.com/Patrick-NII/Tools_firmware">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
-    </a>
-  </div>
-
-  <div style="flex: 0 1 calc(50% - 10px); box-sizing: border-box; margin-bottom: 20px;">
-    <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
-    </a>
-  </div>
-
-</div>
-## 📂 **Projects**
-
-Here are some of my notable projects:
-
 <table>
   <tr>
     <td>
       <a href="https://github.com/Patrick-NII/Sky_Analytics">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
       </a>
-      <p>Description: L'objectif principal est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et estimer les coûts associés.</p>
     </td>
     <td>
       <a href="https://github.com/Patrick-NII/Analyse_Credits">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
       </a>
-      <p>Description: L'objectif principal de ce projet est de développer un modèle de machine learning capable de prédire la capacité d'un client à obtenir un prêt immobilier. Le projet inclut également des visualisations pour mieux comprendre les données et les tendances associées aux prêts immobiliers.</p>
     </td>
   </tr>
   <tr>
@@ -89,13 +56,11 @@ Here are some of my notable projects:
       <a href="https://github.com/Patrick-NII/Tools_firmware">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
       </a>
-      <p>Description: Ce projet consiste en la création et l'optimisation d'un firmware Marlin personnalisé pour une imprimante 3D connectée, intégrant diverses fonctionnalités avancées visant à améliorer la sécurité, l'efficacité et la qualité des impressions.</p>
     </td>
     <td>
       <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 100%;"/>
       </a>
-      <p>Description: Ce projet vise à créer un système de recommandation de films, en utilisant des techniques d'apprentissage automatique sur des données extraites de la base IMDB.</p>
     </td>
   </tr>
 </table>
