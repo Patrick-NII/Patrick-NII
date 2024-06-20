@@ -24,7 +24,6 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ## 📊 **GitHub Profile Summary**
-![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=nom-du-repo&cache_seconds=86400&theme=midnight-purple)
 
 <div class="container">
   <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=midnight-purple" alt="" style="width: 100%;"/>
@@ -35,23 +34,26 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <!-- ## 🏆 **github trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
 -->
-
-## 📂 **projects**
+## 📂 **Projects**
 
 Here are some of my notable projects:
 
 - **Sky Analytics (Projet en cours)**: [GitHub Repository](https://github.com/Patrick-NII/Sky_Analytics)
-  - Description: L'objectif principal est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et estimer les coûts associés. 
-    
+  - Description: L'objectif principal est d'analyser les données de vol et de maintenance pour prédire les besoins de maintenance futurs et estimer les coûts associés.
+  - ![Sky Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=midnight-purple)
+
 - **Analyse Credits**: [GitHub Repository](https://github.com/Patrick-NII/Analyse_Credits)
-  - Description: L'objectif principal de ce projet est de développer un modèle de machine learning capable de prédire la capacité d'un client à obtenir un prêt immobilier. Le projet inclut également des           
-    visualisations pour mieux comprendre les données et les tendances associées aux prêts immobiliers.
-    
+  - Description: L'objectif principal de ce projet est de développer un modèle de machine learning capable de prédire la capacité d'un client à obtenir un prêt immobilier. Le projet inclut également des visualisations pour mieux comprendre les données et les tendances associées aux prêts immobiliers.
+  - ![Analyse Credits](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple)
+
 - **Tools firmware**: [GitHub Repository](https://github.com/Patrick-NII/Tools_firmware)
-  - Description: Ce projet consiste en la création et l'optimisation d'un firmware Marlin personnalisé pour une imprimante 3D connectée, intégrant diverses fonctionnalités avancées visant à améliorer la sécurité,     l'efficacité et la qualité des impressions.
+  - Description: Ce projet consiste en la création et l'optimisation d'un firmware Marlin personnalisé pour une imprimante 3D connectée, intégrant diverses fonctionnalités avancées visant à améliorer la sécurité, l'efficacité et la qualité des impressions.
+  - ![Tools firmware](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple)
 
 - **Systeme de recommendation de films**: [GitHub Repository](https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films)
   - Description: Ce projet vise à créer un système de recommandation de films, en utilisant des techniques d'apprentissage automatique sur des données extraites de la base IMDB.
+  - ![Systeme de recommendation de films](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple)
+
 
 ---
 Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/) 
