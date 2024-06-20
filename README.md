@@ -9,7 +9,7 @@ I thrive on carrying out ambitious data-driven projects that bring innovation an
 
 ## 🎉 **Let's connect!**
 
-Want to chat about **data**, **machine learning**, **IoT**, or **AI**? Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
+Want to chat about **data**, **machine learning**, **IoT**, or **AI**, Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
 
 ## 💡 **Fun fact**
 
@@ -26,14 +26,14 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📊 **Profile Summary**
 
 <div class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=catppuccin_latte&hide_title=true" alt="" style="width: 49%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=catppuccin_latte&hide_title=true" alt="" style="width: 100%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 100%;"/>
 </div>
 
 
-<!-- ## 🏆 **github trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
--->
+## 🏆 **Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 100%;"/>
+
 
 <div class="container">
   <a href="https://github.com/Patrick-NII/Sky_Analytics">
