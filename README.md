@@ -24,6 +24,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 | ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ## 📊 **GitHub Profile Summary**
+![Repository Stats](https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=nom-du-repo&cache_seconds=86400&theme=midnight-purple)
 
 <div class="container">
   <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=midnight-purple" alt="" style="width: 100%;"/>
