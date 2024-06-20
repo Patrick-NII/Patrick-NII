@@ -45,9 +45,7 @@ Here are some of my notable projects:
   <a href="https://github.com/Patrick-NII/Analyse_Credits">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
-</div>    
-      
-<div class="container">   
+  
   <a href="https://github.com/Patrick-NII/Tools_firmware">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
   </a>
