@@ -58,6 +58,8 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 
 ---
 <div align="center"> 
-  Feel free to reach out via email at **Patrick@niip.me** or connect with me on 
+  Feel free to reach out via email at 
+  <a href="https://www.Patrick@niip.me"> Patrick@niip.me </a> 
+  or connect with me on 
   <a href="https://www.linkedin.com/in/patrick-ngunga-a2612325b/"> LinkedIn </a>
 </div>
