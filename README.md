@@ -34,8 +34,6 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 <!-- ## 🏆 **github trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=onedark" alt="GitHub Trophies" style="width: 100%;"/>
 -->
-## 📂 **Projects**
-
 
 <div class="container">
   <a href="https://github.com/Patrick-NII/Sky_Analytics">
