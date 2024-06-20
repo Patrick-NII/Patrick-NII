@@ -26,8 +26,8 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ## 📊 **GitHub Profile Summary**
 
 <div class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=catppuccin_latte" alt="" style="width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=catppuccin_latte" alt="" style="width: 50%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=catppuccin_latte" alt="" style="width: 50%;"/>
 </div>
 
 
