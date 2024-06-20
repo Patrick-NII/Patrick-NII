@@ -51,7 +51,7 @@ Here are some of my notable projects:
   ---
 <div class="container_2"> 
   <a href="https://github.com/Patrick-NII/Tools_firmware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=midnight-purple&cache_seconds=1800" style="width: 49%;"/>
   </a>
   <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=midnight-purple&cache_seconds=1800" style="width: 50%;"/>
