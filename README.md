@@ -59,4 +59,4 @@ Here are some of my notable projects:
 </div>
 
 ---
-Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/) 
+[center]Feel free to reach out via email at **Patrick@niip.me** or connect with me on [LinkedIn](https://www.linkedin.com/in/patrick-ngunga-a2612325b/) [center]
