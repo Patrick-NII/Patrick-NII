@@ -56,7 +56,7 @@ Did you know that I enjoy using data science to decode the mysteries of financia
 ---
 <div align="center"> 
   Feel free to reach out via my portfolio at 
-  <a href="https://www.niip.me"> niip.me </a> 
+  <a href="https://www.niia.fr"> niia.fr </a> 
   or connect with me on 
   <a href="https://www.linkedin.com/in/patrick-ngunga-a2612325b/"> LinkedIn </a>
 </div>
