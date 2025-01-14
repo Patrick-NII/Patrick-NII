@@ -9,7 +9,7 @@ I thrive on carrying out ambitious data-driven projects that bring innovation an
 
 ## 🎉 **Let's connect!**
 
-Want to chat about **data**, **machine learning**, **IoT**, or **AI**, Feel free to drop me a line at **Patrick@niip.me**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
+Want to chat about **data**, **machine learning**, **IoT**, or **AI**, Feel free to drop me a line at **Patrick.nii@aol.com**. I'm always up for a stimulating conversation or an exciting collaboration opportunity!
 
 ## 💡 **Fun fact**
 
