@@ -58,11 +58,6 @@ LinkedIn : [linkedin.com/in/patrick-ngunga-a2612325b](https://www.linkedin.com/i
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=shadow_blue&hide_title=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=shadow_blue" width="48%"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=shadow_blue" width="100%"/>
 </div>
 
