@@ -1,62 +1,82 @@
 
-## 👋 **About me**
+## 👨‍💻 Patrick NGUNGA | AI & Data Engineer | Computer Vision | Embedded Systems | EduTech Innovator
 
-Hey there! I'm **Patrick**, and I'm passionate about **Data**, **Machine Learning**, **IoT**, and **Artificial Intelligence**. I'm on a journey to master these technologies, constantly seeking new challenges and opportunities to expand my expertise.
+🎯 Spécialisé en **Intelligence Artificielle**, **Machine Learning**, **Vision par Ordinateur** et **IoT**  
+💼 Développement de solutions IA temps réel, systèmes embarqués, dashboards industriels et applications éducatives  
+🌐 Basé en France | Bilingue FR/EN | [niia.fr](https://niia.fr)
 
-## 🚀 **Passionate pursuits**
+---
 
-I thrive on carrying out ambitious data-driven projects that bring innovation and optimization. Whether developing robust models in machine learning, working with IoT, or engineering AI solutions, I strive to turn ideas into reality through the power of data.
+## 🌟 À propos
 
-## 🎉 **Let's connect!**
+Je conçois des solutions alliant **modèles IA**, **systèmes embarqués**, et **exploitation des données**. Je travaille sur des projets concrets d'optimisation industrielle, de tableaux de bord, et de déploiement de modèles de vision par ordinateur.
 
-Want to chat about **data**, **machine learning**, **IoT**, or **AI**, Feel free to drop me a line at **Patrick.nii@aol.com** I'm always up for a stimulating conversation or an exciting collaboration opportunity!
+Je développe également des **applications éducatives ludiques** pour les enfants de 5 à 15 ans, afin de leur enseigner l’**IA**, la **programmation** et les **logiques algorithmiques** à travers des jeux interactifs.
 
-## 💡 **Fun fact**
+---
 
-Did you know that I enjoy using data science to decode the mysteries of financial markets? From analyzing stock performance to optimizing productivity with IoT and automation, I'm all about finding creative ways to drive better performance and efficiency.
+## 🛠️ Compétences clés
 
+- **Data & Machine Learning** : Python, Pandas, Scikit-Learn, TensorFlow, Keras, SQL, Power BI  
+- **Vision par ordinateur** : OpenCV, YOLOv8, CNN, Deep Learning, suivi multi-objets  
+- **Systèmes embarqués & IoT** : Raspberry Pi, Arduino, PlatformIO, C++, G-code  
+- **Cloud & DevOps** : Docker, Git, GitHub, CI/CD, AWS (initiation), DBT (en cours)  
+- **Visualisation & BI** : Power BI, Matplotlib, Plotly, Streamlit, Excel  
+- **Pédagogie numérique** : Création d’outils ludo-éducatifs IA pour enfants (PyGame, WebApp, mobile)
 
+---
 
-|  | T | E | C | H | N | O |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-| ![G-code](https://img.shields.io/badge/G--code-000000?style=for-the-badge&logo=gcode&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F50?style=for-the-badge&logo=platformio&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+## 🔧 Projets phares
 
+| Projet | Description |
+| ------ | ----------- |
+| [AeroSafe](https://github.com/Patrick-NII) *(bientôt)* | Drone IA embarqué pour la détection de survivants en milieu à risque |
+| [Sky_Analytics](https://github.com/Patrick-NII/Sky_Analytics) | Analyse de données météo + prédictions ML + dashboards interactifs |
+| [Katiopa](https://github.com/Patrick-NII) *(en dev)* | Plateforme d'apprentissage IA et jeux éducatifs pour enfants (5–15 ans) |
+| [Analyse_Credits](https://github.com/Patrick-NII/Analyse_Credits) | Analyse exploratoire & scoring de crédits bancaires |
+| [Tools_firmware](https://github.com/Patrick-NII/Tools_firmware) | Scripts embarqués & diagnostic pour systèmes industriels |
 
+---
 
-<div class="container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=shadow_blue&hide_title=true" alt="" style="width: 100%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=shadow_blue" alt="" style="width: 100%;"/>
+## 💡 Ce que je conçois
+
+✔️ Des systèmes **IA embarqués** pour l'industrie ou la robotique  
+✔️ Des **modèles ML** pour la prédiction, la détection d’anomalies et la recommandation  
+✔️ Des **dashboards métiers** (Power BI / Streamlit) pour le pilotage d’indicateurs temps réel  
+✔️ Des **apps ludiques éducatives IA** (Web et mobile) pour enfants et collégiens  
+
+---
+
+## 📬 Contact
+
+📧 Email : [patrick.nii@aol.com](mailto:patrick.nii@aol.com)  
+🌐 Portfolio : [niia.fr](https://niia.fr)  
+🔗 LinkedIn : [linkedin.com/in/patrick-ngunga-a2612325b](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Patrick-NII&show_icons=true&theme=shadow_blue&hide_title=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patrick-NII&theme=shadow_blue" width="48%"/>
 </div>
 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=shadow_blue" alt="" style="width: 100%;"/>
-
-
-<div class="container">
-  <a href="https://github.com/Patrick-NII/Sky_Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Sky_Analytics&theme=shadow_blue&cache_seconds=1800" style="width: 49%;"/>
-  </a>
-  <a href="https://github.com/Patrick-NII/Analyse_Credits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Analyse_Credits&theme=shadow_blue&cache_seconds=1800" style="width: 49%;"/>
-  </a>
-</div>
-
-<div class="container_2"> 
-  <a href="https://github.com/Patrick-NII/Tools_firmware">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Tools_firmware&theme=shadow_blue&cache_seconds=1800" style="width: 49%;"/>
-  </a>
-  <a href="https://github.com/Patrick-NII/Projet_2_Systeme_Recommandation-_Films">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-NII&repo=Projet_2_Systeme_Recommandation-_Films&theme=shadow_blue&cache_seconds=1800" style="width: 49%;"/>
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Patrick-NII&theme=shadow_blue" width="100%"/>
 </div>
 
 ---
-<div align="center"> 
-  Feel free to reach out via my portfolio at 
-  <a href="https://www.niia.fr"> niia.fr </a> 
-  or connect with me on 
-  <a href="https://www.linkedin.com/in/patrick-ngunga-a2612325b/"> LinkedIn </a>
-</div>
+
+## 🧠 Stack Technique
+
+|  | T | E | C | H | N | O |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
+---
+
+> 🎯 "Ubuntu"
+
+
