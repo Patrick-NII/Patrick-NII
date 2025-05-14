@@ -1,13 +1,13 @@
 
-## 👨‍💻 Patrick NGUNGA | AI & Data Engineer | Computer Vision | Embedded Systems | EduTech Innovator
+## AI & Data Engineer | Computer Vision | Embedded Systems | EduTech Innovator
 
-🎯 Spécialisé en **Intelligence Artificielle**, **Machine Learning**, **Vision par Ordinateur** et **IoT**  
-💼 Développement de solutions IA temps réel, systèmes embarqués, dashboards industriels et applications éducatives  
+Spécialisé en **Intelligence Artificielle**, **Machine Learning**, **Vision par Ordinateur** et **IoT**  
+Développement de solutions IA temps réel, systèmes embarqués, dashboards industriels et applications éducatives  
 🌐 Basé en France | Bilingue FR/EN | [niia.fr](https://niia.fr)
 
 ---
 
-## 🌟 À propos
+## À propos
 
 Je conçois des solutions alliant **modèles IA**, **systèmes embarqués**, et **exploitation des données**. Je travaille sur des projets concrets d'optimisation industrielle, de tableaux de bord, et de déploiement de modèles de vision par ordinateur.
 
@@ -15,7 +15,7 @@ Je développe également des **applications éducatives ludiques** pour les enfa
 
 ---
 
-## 🛠️ Compétences clés
+## Compétences clés
 
 - **Data & Machine Learning** : Python, Pandas, Scikit-Learn, TensorFlow, Keras, SQL, Power BI  
 - **Vision par ordinateur** : OpenCV, YOLOv8, CNN, Deep Learning, suivi multi-objets  
@@ -26,7 +26,7 @@ Je développe également des **applications éducatives ludiques** pour les enfa
 
 ---
 
-## 🔧 Projets phares
+## Projets phares
 
 | Projet | Description |
 | ------ | ----------- |
@@ -40,18 +40,18 @@ Je développe également des **applications éducatives ludiques** pour les enfa
 
 ## 💡 Ce que je conçois
 
-✔️ Des systèmes **IA embarqués** pour l'industrie ou la robotique  
-✔️ Des **modèles ML** pour la prédiction, la détection d’anomalies et la recommandation  
-✔️ Des **dashboards métiers** (Power BI / Streamlit) pour le pilotage d’indicateurs temps réel  
-✔️ Des **apps ludiques éducatives IA** (Web et mobile) pour enfants et collégiens  
+✔Des systèmes **IA embarqués** pour l'industrie ou la robotique  
+✔Des **modèles ML** pour la prédiction, la détection d’anomalies et la recommandation  
+✔Des **dashboards métiers** (Power BI / Streamlit) pour le pilotage d’indicateurs temps réel  
+✔Des **apps ludiques éducatives IA** (Web et mobile) pour enfants et collégiens  
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 Email : [patrick.nii@aol.com](mailto:patrick.nii@aol.com)  
-🌐 Portfolio : [niia.fr](https://niia.fr)  
-🔗 LinkedIn : [linkedin.com/in/patrick-ngunga-a2612325b](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
+Email : [patrick.nii@aol.com](mailto:patrick.nii@aol.com)  
+Portfolio : [niia.fr](https://niia.fr)  
+LinkedIn : [linkedin.com/in/patrick-ngunga-a2612325b](https://www.linkedin.com/in/patrick-ngunga-a2612325b/)
 
 ---
 
@@ -68,7 +68,7 @@ Je développe également des **applications éducatives ludiques** pour les enfa
 
 ---
 
-## 🧠 Stack Technique
+## Stack Technique
 
 |  | T | E | C | H | N | O |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
