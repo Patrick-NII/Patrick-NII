@@ -1,5 +1,5 @@
 
-## AI & Data Engineer | Computer Vision | Embedded Systems | EduTech Innovator
+## AI & Data Engineer | Computer Vision | Embedded Systems | EduTech 
 
 Spécialisé en **Intelligence Artificielle**, **Machine Learning**, **Vision par Ordinateur** et **IoT**  
 Développement de solutions IA temps réel, systèmes embarqués, dashboards industriels et applications éducatives  
